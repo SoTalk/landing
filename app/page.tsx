@@ -198,7 +198,7 @@ export default function Home() {
                   transition={{ duration: 0.8, delay: 0.3 }}
                   className="mb-4 text-6xl font-bold leading-[1.05] tracking-tight lg:text-8xl"
                 >
-                  <span className="block">Private</span>
+                  <span className="block">Encrypted</span>
                   <span className="relative inline-block">
                     <motion.span
                       initial={{ backgroundPosition: "0% 50%" }}
@@ -212,7 +212,7 @@ export default function Home() {
                       className="bg-gradient-to-r from-cobalt via-purple-500 via-laser to-cobalt bg-[length:200%_auto] bg-clip-text text-transparent"
                       style={{ backgroundSize: "200% auto" }}
                     >
-                      Messaging
+                      DAO Chat
                     </motion.span>
                     {/* Animated Underline */}
                     <motion.div
@@ -222,7 +222,7 @@ export default function Home() {
                       className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-to-r from-cobalt via-purple-500 to-laser blur-sm"
                     />
                   </span>
-                  <span className="block">for Web3</span>
+                  <span className="block">on Solana</span>
                 </motion.h1>
               </div>
 
@@ -233,10 +233,10 @@ export default function Home() {
                 transition={{ duration: 0.8, delay: 0.5 }}
                 className="mb-10 max-w-xl text-lg leading-relaxed text-grey-400 lg:text-xl"
               >
-                Connect with your Solana wallet. Send encrypted messages.
-                Transfer SOL instantly. Build token-gated communities.
+                Wallet-native, end-to-end encrypted messaging for DAOs and token-gated communities.
+                On-chain membership verification, NFT/token-gated rooms, instant SOL transfers.
                 <span className="block mt-2 bg-gradient-to-r from-laser to-green-400 bg-clip-text text-transparent font-semibold">
-                  All without phone numbers.
+                  No Discord leaks. No phone numbers. Just your wallet.
                 </span>
               </motion.p>
 
@@ -285,9 +285,9 @@ export default function Home() {
               >
                 <div className="grid grid-cols-3 gap-8">
                   {[
-                    { value: "100K+", label: "Messages", color: "cobalt" },
-                    { value: "$2M+", label: "Volume", color: "purple" },
-                    { value: "99.9%", label: "Uptime", color: "laser" },
+                    { value: "50+", label: "DAOs", color: "cobalt" },
+                    { value: "10K+", label: "Members", color: "purple" },
+                    { value: "100%", label: "Private", color: "laser" },
                   ].map((stat, i) => (
                     <motion.div
                       key={i}
@@ -812,9 +812,9 @@ export default function Home() {
               first, always.
             </h2>
             <p className="mx-auto max-w-2xl text-lg text-grey-400">
-              Military-grade encryption meets decentralized architecture. Your
-              conversations are protected by the same technology used by
-              intelligence agencies.
+              Battle-tested encryption using Signal Protocol with Double Ratchet.
+              Client-side key derivation ensures zero-knowledge privacy.
+              Your DAO conversations stay truly private.
             </p>
           </motion.div>
 
@@ -823,29 +823,29 @@ export default function Home() {
             <SecurityGridItem
               area="md:[grid-area:1/1/2/7] xl:[grid-area:1/1/2/5]"
               icon={<Lock className="h-5 w-5 text-laser" />}
-              title="End-to-End Encryption"
-              description="Every message is encrypted using the Signal Protocol. Even we can't read your conversations."
+              title="Signal Protocol / Double Ratchet"
+              description="Industry-standard E2EE using Signal Protocol. Perfect Forward Secrecy ensures past messages stay secure even if keys are compromised."
             />
 
             <SecurityGridItem
               area="md:[grid-area:1/7/2/13] xl:[grid-area:2/1/3/5]"
               icon={<Key className="h-5 w-5 text-cobalt" />}
-              title="Forward Secrecy"
-              description="Message keys rotate with each conversation. Past messages remain secure even if keys are compromised."
+              title="Ed25519 → X25519 Conversion"
+              description="Client-side key derivation from your Solana wallet. Your private keys never leave your device."
             />
 
             <SecurityGridItem
               area="md:[grid-area:2/1/3/7] xl:[grid-area:1/5/3/8]"
               icon={<Eye className="h-5 w-5 text-purple-400" />}
               title="Zero-Knowledge Architecture"
-              description="We never see your private keys, messages, or metadata. Your privacy is guaranteed by design, not promises."
+              description="No servers can read your messages or metadata. Token-gated access is verified on-chain without exposing conversation data."
             />
 
             <SecurityGridItem
               area="md:[grid-area:2/7/3/13] xl:[grid-area:1/8/2/13]"
               icon={<Fingerprint className="h-5 w-5 text-laser" />}
-              title="Wallet-Based Identity"
-              description="No phone numbers, no emails. Your Solana wallet is your identity, with cryptographic proof of authenticity."
+              title="On-Chain Identity Verification"
+              description="Wallet signatures prove membership without centralized databases. NFT/token holdings verified directly from Solana."
             />
 
             <SecurityGridItem
@@ -907,37 +907,37 @@ export default function Home() {
             className="mb-12 text-center"
           >
             <h2 className="mb-3 text-3xl font-bold tracking-tight md:text-5xl">
-              Everything you need
+              Built for DAOs
             </h2>
             <p className="mx-auto max-w-xl text-base text-grey-400">
-              Powerful features for Web3 communication
+              Everything your DAO needs for secure, token-gated communication
             </p>
           </motion.div>
 
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
             {[
               {
+                icon: Shield,
+                title: "Token-Gated Rooms",
+                description: "NFT/Token verification for exclusive access",
+                color: "from-cobalt/20 to-purple-500/10",
+              },
+              {
                 icon: Wallet,
-                title: "Wallet Identity",
-                description: "No phone numbers required",
+                title: "Wallet = Identity",
+                description: "On-chain membership, no emails",
                 color: "from-laser/20 to-green-500/10",
               },
               {
                 icon: Lock,
-                title: "E2E Encrypted",
-                description: "Signal Protocol security",
-                color: "from-cobalt/20 to-purple-500/10",
-              },
-              {
-                icon: Zap,
-                title: "Instant Payments",
-                description: "400ms SOL transfers",
+                title: "End-to-End Encrypted",
+                description: "Signal Protocol / Double Ratchet",
                 color: "from-purple-500/20 to-pink-500/10",
               },
               {
                 icon: Users,
-                title: "Token-Gated",
-                description: "NFT & DAO communities",
+                title: "DAO Governance",
+                description: "Community voting & proposals",
                 color: "from-cobalt/20 to-laser/10",
               },
             ].map((item, i) => (
@@ -984,7 +984,7 @@ export default function Home() {
               </span>
             </h2>
             <p className="mx-auto max-w-xl text-base text-grey-400">
-              $STK token powers governance, rewards, and premium features
+              $STK token powers DAO governance, community access, and premium features
             </p>
           </motion.div>
 
@@ -1111,12 +1111,12 @@ export default function Home() {
             </div>
 
             <h2 className="mb-4 text-3xl font-bold tracking-tight md:text-4xl">
-              Start messaging securely
+              Join the DAO Communication Revolution
             </h2>
 
             <p className="mx-auto mb-8 max-w-lg text-base text-grey-400">
-              Join thousands communicating privately on Solana. No phone number
-              required.
+              Secure, token-gated messaging for your DAO. No Discord leaks. No phone numbers.
+              Built on Solana.
             </p>
 
             <div className="flex flex-wrap items-center justify-center gap-3">
@@ -1181,7 +1181,7 @@ export default function Home() {
 
           <div className="mt-8 border-t border-white/5 pt-6 text-center">
             <p className="text-xs text-grey-400">
-              © 2024 sotalk. Secure messaging on Solana.
+              © 2024 sotalk. Encrypted DAO communication on Solana.
             </p>
           </div>
         </div>
