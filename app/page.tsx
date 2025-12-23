@@ -182,9 +182,9 @@ export default function Home() {
                 <div className="group relative">
                   <div className="absolute -inset-0.5 rounded-full bg-gradient-to-r from-cobalt via-purple-500 to-laser opacity-75 blur-sm group-hover:opacity-100 transition-opacity" />
                   <div className="relative flex items-center gap-2 rounded-full border border-cobalt/30 bg-black px-5 py-2.5">
-                    <Sparkles className="h-4 w-4 text-cobalt" />
-                    <span className="text-xs font-semibold uppercase tracking-wider text-cobalt">
-                      Powered by Solana
+                    <Users className="h-4 w-4 text-laser" />
+                    <span className="text-xs font-semibold uppercase tracking-wider bg-gradient-to-r from-laser to-cobalt bg-clip-text text-transparent">
+                      Community-Owned DAO
                     </span>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ export default function Home() {
                   transition={{ duration: 0.8, delay: 0.3 }}
                   className="mb-4 text-6xl font-bold leading-[1.05] tracking-tight lg:text-8xl"
                 >
-                  <span className="block">Encrypted</span>
+                  <span className="block">The First</span>
                   <span className="relative inline-block">
                     <motion.span
                       initial={{ backgroundPosition: "0% 50%" }}
@@ -212,7 +212,7 @@ export default function Home() {
                       className="bg-gradient-to-r from-cobalt via-purple-500 via-laser to-cobalt bg-[length:200%_auto] bg-clip-text text-transparent"
                       style={{ backgroundSize: "200% auto" }}
                     >
-                      DAO Chat
+                      DAO-Owned
                     </motion.span>
                     {/* Animated Underline */}
                     <motion.div
@@ -222,7 +222,7 @@ export default function Home() {
                       className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-to-r from-cobalt via-purple-500 to-laser blur-sm"
                     />
                   </span>
-                  <span className="block">on Solana</span>
+                  <span className="block">Messenger</span>
                 </motion.h1>
               </div>
 
@@ -233,10 +233,16 @@ export default function Home() {
                 transition={{ duration: 0.8, delay: 0.5 }}
                 className="mb-10 max-w-xl text-lg leading-relaxed text-grey-400 lg:text-xl"
               >
-                Wallet-native, end-to-end encrypted messaging for DAOs and token-gated communities.
-                On-chain membership verification, NFT/token-gated rooms, instant SOL transfers.
-                <span className="block mt-2 bg-gradient-to-r from-laser to-green-400 bg-clip-text text-transparent font-semibold">
-                  No Discord leaks. No phone numbers. Just your wallet.
+                <span className="block mb-3">
+                  <span className="bg-gradient-to-r from-laser to-green-400 bg-clip-text text-transparent font-bold">
+                    Owned by users, not corporations.
+                  </span>{" "}
+                  Community-governed messaging platform powered by STK token holders.
+                </span>
+                End-to-end encrypted, token-gated rooms, instant SOL transfers.
+                Decentralized infrastructure ensures censorship resistance.
+                <span className="block mt-3 bg-gradient-to-r from-cobalt to-purple-400 bg-clip-text text-transparent font-semibold">
+                  ✓ Free forever • ✓ No phone numbers • ✓ DAO governed
                 </span>
               </motion.p>
 
@@ -285,9 +291,9 @@ export default function Home() {
               >
                 <div className="grid grid-cols-3 gap-8">
                   {[
-                    { value: "50+", label: "DAOs", color: "cobalt" },
-                    { value: "10K+", label: "Members", color: "purple" },
-                    { value: "100%", label: "Private", color: "laser" },
+                    { value: "100%", label: "DAO Owned", color: "laser" },
+                    { value: "25K+", label: "STK Holders", color: "cobalt" },
+                    { value: "$0", label: "Forever", color: "purple" },
                   ].map((stat, i) => (
                     <motion.div
                       key={i}
@@ -907,37 +913,40 @@ export default function Home() {
             className="mb-12 text-center"
           >
             <h2 className="mb-3 text-3xl font-bold tracking-tight md:text-5xl">
-              Built for DAOs
+              <span className="bg-gradient-to-r from-laser to-green-400 bg-clip-text text-transparent">
+                Community-Governed
+              </span>{" "}
+              Platform
             </h2>
             <p className="mx-auto max-w-xl text-base text-grey-400">
-              Everything your DAO needs for secure, token-gated communication
+              STK token holders control the future of SoTalk through decentralized governance
             </p>
           </motion.div>
 
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
             {[
               {
-                icon: Shield,
-                title: "Token-Gated Rooms",
-                description: "NFT/Token verification for exclusive access",
-                color: "from-cobalt/20 to-purple-500/10",
-              },
-              {
-                icon: Wallet,
-                title: "Wallet = Identity",
-                description: "On-chain membership, no emails",
+                icon: Users,
+                title: "DAO Governance",
+                description: "Token holders vote on all platform decisions",
                 color: "from-laser/20 to-green-500/10",
               },
               {
-                icon: Lock,
-                title: "End-to-End Encrypted",
-                description: "Signal Protocol / Double Ratchet",
+                icon: Shield,
+                title: "Token-Gated Access",
+                description: "NFT/SPL token verification for exclusive rooms",
+                color: "from-cobalt/20 to-purple-500/10",
+              },
+              {
+                icon: Coins,
+                title: "Free Forever",
+                description: "Token inflation pays infrastructure costs",
                 color: "from-purple-500/20 to-pink-500/10",
               },
               {
-                icon: Users,
-                title: "DAO Governance",
-                description: "Community voting & proposals",
+                icon: Lock,
+                title: "Censorship Resistant",
+                description: "Distributed nodes, no single point of control",
                 color: "from-cobalt/20 to-laser/10",
               },
             ].map((item, i) => (
@@ -978,13 +987,13 @@ export default function Home() {
               <Coins className="h-6 w-6 text-laser" />
             </div>
             <h2 className="mb-3 text-3xl font-bold tracking-tight md:text-5xl">
-              Own the{" "}
+              Ownership,{" "}
               <span className="bg-gradient-to-r from-laser to-green-400 bg-clip-text text-transparent">
-                Future
+                Not Just Usage
               </span>
             </h2>
             <p className="mx-auto max-w-xl text-base text-grey-400">
-              $STK token powers DAO governance, community access, and premium features
+              STK token holders govern the entire platform. Every major decision goes through community voting.
             </p>
           </motion.div>
 
@@ -992,18 +1001,18 @@ export default function Home() {
             {[
               {
                 icon: Users,
-                title: "Governance",
-                description: "Vote on protocol upgrades",
+                title: "Vote on Everything",
+                description: "Node operators, fees, features, treasury",
+              },
+              {
+                icon: Coins,
+                title: "Node Operator Rewards",
+                description: "Run infrastructure, earn STK tokens",
               },
               {
                 icon: Zap,
-                title: "Staking",
-                description: "Earn rewards & unlock features",
-              },
-              {
-                icon: Shield,
-                title: "Premium",
-                description: "Priority support & analytics",
+                title: "Staking Benefits",
+                description: "Unlock premium features, governance power",
               },
             ].map((item, i) => (
               <motion.div
@@ -1062,13 +1071,13 @@ export default function Home() {
               <Globe2 className="h-6 w-6 text-purple-400" />
             </div>
             <h2 className="mb-3 text-3xl font-bold tracking-tight md:text-5xl">
-              Built on{" "}
               <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-                Solana
-              </span>
+                Decentralized
+              </span>{" "}
+              Infrastructure
             </h2>
             <p className="mx-auto max-w-xl text-base text-grey-400">
-              The world&apos;s fastest blockchain powers every transaction
+              Distributed node operators ensure no single point of control. Powered by Solana.
             </p>
           </motion.div>
 
@@ -1111,12 +1120,16 @@ export default function Home() {
             </div>
 
             <h2 className="mb-4 text-3xl font-bold tracking-tight md:text-4xl">
-              Join the DAO Communication Revolution
+              <span className="bg-gradient-to-r from-laser to-cobalt bg-clip-text text-transparent">
+                Owned by the Community.
+              </span>
+              <br />
+              Built for the Future.
             </h2>
 
             <p className="mx-auto mb-8 max-w-lg text-base text-grey-400">
-              Secure, token-gated messaging for your DAO. No Discord leaks. No phone numbers.
-              Built on Solana.
+              The first messaging platform governed by token holders. Free forever, censorship-resistant,
+              and built on Solana. No corporations. No central control. Just pure community power.
             </p>
 
             <div className="flex flex-wrap items-center justify-center gap-3">
@@ -1181,7 +1194,10 @@ export default function Home() {
 
           <div className="mt-8 border-t border-white/5 pt-6 text-center">
             <p className="text-xs text-grey-400">
-              © 2024 sotalk. Encrypted DAO communication on Solana.
+              © 2024 sotalk. The first community-owned messaging DAO.
+              <span className="block mt-1">
+                Governed by STK token holders. Built on Solana.
+              </span>
             </p>
           </div>
         </div>
