@@ -1,0 +1,375 @@
+Bedroom
+
+Create a hyper-realistic renovation timelapse video that transforms the exact abandoned bedroom shown in the reference image into a refined, elegant, luxury residential bedroom, strictly following real-world architectural, construction, interior-design, and acoustic logic.
+
+
+
+This must look like a real on-site renovation documented by a professional construction firm, not an AI concept, cinematic montage, or stylized visualization.
+
+
+
+No fantasy design
+
+No impossible layouts
+
+No stylization
+
+No AI artifacts
+
+
+
+The final space must feel quietly luxurious, high-end, and fully livable, completed with professional craftsmanship.
+
+
+
+📷 CAMERA — ABSOLUTE LOCK (NON-NEGOTIABLE)
+
+
+
+Fixed static camera from first frame to last
+
+
+
+No pan, tilt, zoom, shake, drift, or reframing
+
+
+
+Same lens throughout (24–28mm wide angle)
+
+
+
+Same framing, same perspective, same scale
+
+
+
+Entire bedroom visible at all times
+
+
+
+No cuts, no transitions, no camera jumps
+
+
+
+Camera behaves like a mounted tripod / CCTV
+
+
+
+🏚️ INITIAL STATE — MUST MATCH REFERENCE IMAGE EXACTLY
+
+
+
+Small abandoned bedroom (approx. 2 × 3 meters)
+
+
+
+Severely cracked walls with peeling paint and stains
+
+
+
+Ceiling badly damaged or partially collapsed
+
+
+
+Floor uneven, dirty, covered with debris and fallen plaster
+
+
+
+Old rusted bed frame with ruined mattress
+
+
+
+Broken bedside table or minimal damaged furniture
+
+
+
+Cold natural daylight only
+
+
+
+Extremely neglected, unsafe, and claustrophobic condition
+
+
+
+⚠️ DO NOT CHANGE (STRICT)
+
+
+
+Room proportions
+
+
+
+Window position
+
+
+
+Ceiling height
+
+
+
+Floor footprint
+
+
+
+Renovation only — no redesign of room size or layout.
+
+
+
+👷‍♀️ WORKERS — REALISTIC & PROFESSIONAL
+
+
+
+Small professional construction crew
+
+
+
+Men and women allowed, natural and respectful
+
+
+
+Functional construction clothing only
+
+
+
+Work shirts or coveralls
+
+
+
+Work pants or jeans
+
+
+
+Safety boots, gloves
+
+
+
+Helmets and safety vests in realistic random colors
+
+
+
+Behavior rules
+
+
+
+No posing
+
+
+
+No flirting
+
+
+
+No slow motion
+
+
+
+No body emphasis
+
+
+
+Movements are efficient, purposeful, professional
+
+
+
+⏱️ TIMELAPSE — REAL CONSTRUCTION ORDER
+
+
+
+Photorealistic timelapse at 30fps, condensed to 12–20 seconds, following real renovation workflow:
+
+
+
+1️⃣ Cleaning & Clearing
+
+Water spray, sweeping, debris removal
+
+Old bed and damaged furniture removed naturally
+
+
+
+2️⃣ Demolition & Structural Repair
+
+Loose plaster removed
+
+Walls and ceiling repaired, reinforced, and leveled
+
+
+
+3️⃣ Surface Renovation
+
+Walls repainted in soft neutral luxury tones
+
+Ceiling fully restored with clean finish
+
+Floor replaced with high-quality material (engineered wood / stone-look tile)
+
+
+
+4️⃣ Lighting Installation
+
+Elegant ceiling light installed
+
+Warm, soft, realistic bedroom lighting (hotel-grade, non-dramatic)
+
+
+
+5️⃣ Furniture Installation
+
+Upholstered luxury bed frame
+
+High-quality mattress
+
+Minimalist bedside tables
+
+Furniture appears gradually with correct scale and spacing
+
+
+
+6️⃣ Final Styling
+
+Crisp bedding
+
+Clean surfaces
+
+Calm, refined, high-end bedroom atmosphere
+
+
+
+🔊 AUDIO — REALISTIC & SYNCED (CRITICAL)
+
+
+
+Audio perfectly synchronized with visible actions
+
+
+
+Real construction sound logic
+
+
+
+Time-compressed naturally
+
+
+
+No cinematic or dramatic music
+
+
+
+No audio when workers are not visible
+
+
+
+Audio progression
+
+
+
+Cleaning: water spray, sweeping
+
+
+
+Repair: scraping, light hammering
+
+
+
+Painting: rollers, sanding
+
+
+
+Furniture: soft placement sounds
+
+
+
+Final: subtle ambient room tone
+
+
+
+No desync. No volume jumps.
+
+
+
+🧠 DESIGN RULES — ELEGANT LUXURY BEDROOM
+
+
+
+High-end modern luxury (subtle, timeless)
+
+
+
+Neutral palette: warm white, beige, soft taupe
+
+
+
+Premium materials only
+
+
+
+Clean lines, balanced proportions
+
+
+
+Calm, quiet, hotel-quality sleeping space
+
+
+
+❌ FORBIDDEN
+
+
+
+Floating furniture
+
+
+
+Warped walls or floor
+
+
+
+Unrealistic lighting
+
+
+
+Distorted geometry
+
+
+
+Over-decorated or flashy luxury
+
+
+
+🏁 FINAL RESULT
+
+
+
+A fully renovated elegant luxury bedroom
+
+Looks like a real professional renovation timelapse
+
+Refined, high-end, realistic
+
+100% livable
+
+Never looks AI-generated
+
+
+
+❌ NEGATIVE PROMPT (HARD BLOCK)
+
+
+
+no camera movement
+
+no scene jump
+
+no instant transformation
+
+no fantasy architecture
+
+no warped objects
+
+no floating furniture
+
+no distorted proportions
+
+no cinematic over-stylization
+
+no AI artifacts
+
+no unsynced or fake audio

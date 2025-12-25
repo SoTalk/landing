@@ -1,0 +1,163 @@
+LIVING ROOM
+
+Objective: Document real construction footage transforming abandoned living room into modern relaxation space. Must look like actual jobsite documentation, NOT AI/CGI.
+
+🎥 CAMERA (NON-NEGOTIABLE)
+
+Fixed tripod position, 24mm wide angle
+NO pan, tilt, zoom, cuts, or reframing
+Entire room visible throughout
+Only natural slight shake during heavy work
+Think: Construction site CCTV footage
+🏚️ STARTING CONDITION
+
+Single living room/ruang santai (approx. 4×5m):
+
+Old fabric sofa along left wall (worn, stained)
+Wooden plank floor: worn, dirty, partially broken
+Walls: peeling patterned wallpaper, water stains
+Ceiling: damaged wooden panels, cracks, holes, water damage
+Multiple windows (right/back walls): dirty, some broken glass
+Overgrown plants/grass entering through windows
+Debris, broken plaster, wood scattered on floor
+Cold natural daylight, neglected appearance
+FORBIDDEN ELEMENTS:
+
+No bedroom furniture (bed, wardrobe)
+No extra rooms, stairs, or added doors/windows
+DO NOT CHANGE: Room size, window count/positions, ceiling height, floor layout, camera angle
+
+👷 WORKERS (NATURAL & PROFESSIONAL)
+
+3-5 construction crew, mixed gender, age 25-55
+Standard work clothes: coveralls, work pants, safety gear (helmets, vests, boots)
+Clothing shows realistic dirt accumulation
+Natural purposeful movements, NO posing or camera awareness
+Workers enter/exit naturally as tasks require
+⏱️ RENOVATION SEQUENCE (12-20 sec, 30fps)
+
+PHASE 1: Clearing (0-3s)
+
+Remove overgrown plants from windows/floor
+Workers carry old sofa out through doorway
+Sweep debris into bags/buckets
+Remove loose ceiling panels and wallpaper strips
+Room becomes progressively empty
+Audio: Plant rustling, furniture dragging, sweeping, debris falling
+PHASE 2: Demolition & Repair (3-7s)
+
+Strip remaining wallpaper (show peeling action)
+Remove damaged ceiling panels section by section
+Patch wall holes with compound (apply → dry → sand)
+Repair ceiling structure with new panels
+Show wet compound → matte drying progression
+Audio: Ripping wallpaper, light hammering, troweling, sanding
+PHASE 3: Surface Finishing (7-12s)
+
+Ceiling: primer → first coat → final coat (white)
+Walls: primer → first coat → final coat (warm beige/soft gray)
+Floor: sand wooden planks OR install new laminate row by row
+Paint transitions from wet sheen → matte finish
+Each surface completed before moving to next
+Audio: Rolling paint, brush strokes, floor sanding/installation
+PHASE 4: Windows & Lighting (12-14s)
+
+Clean windows inside and out (visible wiping motion)
+Replace broken glass panes
+Install ceiling light fixtures (worker on ladder)
+Install wall sconces or floor lamp outlets
+Lights turn on gradually, warm glow fills room
+Natural daylight becomes clear and balanced
+Audio: Window cleaning squeaks, glass handling, drilling, light clicks
+PHASE 5: Furnishing (14-18s)
+
+Modern sofa carried in through doorway, positioned along wall
+Coffee table placed in center
+Area rug unrolled and positioned under furniture
+Side table/accent chair added
+Each piece grounded firmly, realistic weight
+NO instant appearance or floating
+Audio: Furniture scraping/placement, fabric sounds, soft thuds
+PHASE 6: Completion (18-20s)
+
+Add throw pillows and blankets to sofa
+Place small potted plants (on table/windowsill)
+Add books, minimal decor items
+Final dusting/cleaning
+Workers exit with tools
+Empty peaceful living room
+Audio: Soft placement sounds fading to ambient room tone
+🎨 FINAL DESIGN
+
+Colors: Warm white/beige walls (#F5F5F0), white ceiling, light wood/neutral floor, soft gray/beige sofa Lighting:Natural daylight through clean windows + warm LED ceiling/wall lights (2700K) Furniture: Modern minimalist sofa, low coffee table, area rug, optional side table/chair Layout: Sofa against wall, coffee table centered, 60-80cm clearances Mood: Clean, bright, comfortable, professionally finished
+
+🔊 AUDIO SYNC (CRITICAL)
+
+Every visible action has matching sound
+Volume matches work intensity
+Time-compressed naturally with pitch adjustment
+Sounds fade with workers entering/exiting
+Medium room reverb (larger than bedroom)
+NO music or dramatic effects
+❌ PREVENT AI ARTIFACTS
+
+Morphing/Warping:
+
+No walls bending or liquifying
+No furniture growing from floor
+No window frames distorting
+No geometry changes
+Temporal Issues:
+
+No instant color changes
+No teleporting workers/objects
+No sofa appearing from nowhere (must be carried in)
+Show ALL intermediate steps (wallpaper peeling, paint drying)
+Physical Impossibilities:
+
+No floating furniture
+No defying gravity
+No wrong-scale items
+No plants growing/shrinking unrealistically
+Sofa must look heavy and grounded
+Lighting Errors:
+
+No shadows disappearing/reappearing
+No sudden brightness jumps
+No window light direction changing
+Natural daylight progresses realistically
+Texture Problems:
+
+No CGI-perfect surfaces
+No unrealistic wood grain flow
+No textures that slide/swim
+No fabric that looks plastic
+Materials must look physically accurate
+✅ REALISM CHECKLIST
+
+[ ] Camera never moves
+[ ] Old sofa carried out piece by piece
+[ ] Wallpaper strips peel gradually
+[ ] Paint dries gradually (wet sheen → matte)
+[ ] New furniture carried in through doorway
+[ ] Plants removed naturally, not vanishing
+[ ] Windows cleaned with visible wiping motion
+[ ] Workers look natural, task-focused
+[ ] All objects have weight/physics
+[ ] Lighting changes smooth and logical
+[ ] Sounds perfectly synced to actions
+[ ] Room proportions constant
+[ ] Window count/positions unchanged
+[ ] Could pass as real contractor documentation
+🎯 GENERATION APPROACH
+
+Style: Documentary construction footage Priority: Physical realism > aesthetic perfection Key principle: Show the PROCESS, not just before/after Focus: Old sofa removal and new sofa installation must look completely natural
+
+Critical moments to get right:
+
+Sofa being carried out (show lifting, carrying, doorway passage)
+Wallpaper peeling (strips coming off in sheets)
+Paint application (roller marks visible, wet to dry)
+New sofa being carried in (reverse of removal, realistic weight)
+Windows going from dirty to clean (gradual wiping)
+When in doubt: choose mundane/realistic over stylized/dramatic

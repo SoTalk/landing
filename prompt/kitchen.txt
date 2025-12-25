@@ -1,0 +1,219 @@
+Kitchen
+
+
+
+Create a hyper-realistic renovation timelapse video that transforms the exact abandoned interior shown in the reference image into a modern, elegant, fully livable interior space, strictly following real-world architectural, construction, and interior-design logic.
+
+This must look like a real renovation documented on-site, not an AI concept, cinematic montage, or stylized visualization.
+
+No fantasy design
+No impossible layouts
+No stylization
+No AI artifacts
+
+The final result must feel safe, functional, realistic, and professionally finished, as if completed by a real architecture & construction firm.
+
+📷 CAMERA — ABSOLUTE LOCK (NON-NEGOTIABLE)
+
+Fixed static camera from first frame to last
+
+No pan, tilt, zoom, shake, drift, or reframing
+
+Same lens throughout (24–28mm wide angle)
+
+Same framing, same perspective, same scale
+
+Entire room visible at all times
+
+No cuts, no transitions, no camera jumps
+
+Camera behaves like a mounted tripod / CCTV
+
+🏚️ INITIAL STATE — MUST MATCH REFERENCE IMAGE EXACTLY
+
+Abandoned interior space with internal staircase on the right
+
+Severely peeling and cracked wall paint
+
+Exposed brick sections on walls
+
+Damaged plaster and partially broken ceiling
+
+Dirty concrete floor covered with debris and fallen plaster
+
+Old, broken kitchen counter and sink on the left side
+
+Rusted stair railing and worn concrete steps
+
+Single window at the back providing cold natural daylight
+
+Extremely neglected, unsafe, abandoned condition
+
+⚠️ NO hallucinated elements
+
+No bedroom furniture
+
+No extra rooms
+
+No added windows or doors
+
+⚠️ DO NOT CHANGE (CRITICAL)
+
+Room proportions
+
+Stair position, angle, and size
+
+Window position and size
+
+Ceiling height
+
+Floor footprint
+
+Renovation only — no redesign of structure or layout
+
+👷 WORKERS — REALISTIC & PROFESSIONAL
+
+Small professional construction crew
+
+Men and women allowed, portrayed naturally and respectfully
+
+Appearance
+
+Functional construction clothing only
+
+Work shirts or coveralls
+
+Work pants or jeans
+
+Safety boots, gloves
+
+Helmets and high-visibility vests in realistic random colors
+
+Behavior
+
+No posing
+
+No flirting
+
+No slow motion
+
+No body emphasis
+
+Efficient, purposeful, professional movements
+
+⏱️ TIMELAPSE — REAL CONSTRUCTION ORDER
+
+Photorealistic timelapse at 30fps, condensed to 12–20 seconds, following real renovation workflow:
+
+1️⃣ Cleaning & Clearing
+
+Water spray, sweeping, debris removal
+
+Old kitchen units dismantled and removed
+
+Loose plaster cleared from floor and stairs
+
+2️⃣ Structural Repair
+
+Cracked plaster removed
+
+Walls repaired and leveled
+
+Exposed brick stabilized
+
+Ceiling fully repaired and sealed
+
+3️⃣ Staircase Restoration
+
+Steps repaired and cleaned
+
+Railing restored or replaced with modern but realistic design
+
+No change in stair position or geometry
+
+4️⃣ Surface Renovation
+
+Walls repainted (neutral modern tones)
+
+Ceiling finished clean and smooth
+
+Floor replaced with realistic modern material (tile or polished concrete)
+
+5️⃣ Lighting & Utilities
+
+Ceiling lighting installed
+
+Wall lighting added if realistic
+
+Warm, natural interior lighting
+
+6️⃣ Final Interior Setup
+
+Minimal modern furniture appropriate to the space
+
+Clean, functional, livable interior
+
+No clutter, no over-decoration
+
+🔊 AUDIO — REALISTIC & SYNCED (CRITICAL)
+
+Audio perfectly synchronized with visible actions
+
+Real construction sound logic
+
+Naturally time-compressed
+
+Audio progression
+
+Cleaning: water spray, sweeping, debris movement
+
+Repair: scraping, hammering, drilling
+
+Painting: rollers, sanding
+
+Installation: tool sounds, soft placement
+
+Final: subtle ambient room tone
+
+❌ No cinematic music
+❌ No audio when workers are not visible
+❌ No desync or volume jumps
+
+🧠 DESIGN RULES — INTERIOR SPACE
+
+Modern minimalist interior
+
+Neutral colors: white, beige, soft gray, wood accents
+
+Real materials only
+
+Functional, realistic living space
+
+❌ No floating furniture
+❌ No warped walls or floors
+❌ No unrealistic lighting
+
+🏁 FINAL RESULT
+
+Fully renovated modern interior
+
+Staircase preserved and integrated naturally
+
+Looks like a real renovation timelapse
+
+Professional, elegant, realistic
+
+Never looks AI-generated
+
+❌ NEGATIVE PROMPT (HARD BLOCK)
+
+no camera movement
+no scene jump
+no instant transformation
+no fantasy architecture
+no warped objects
+no floating furniture
+no distorted proportions
+no cinematic over-stylization
+no AI artifacts
+no unsynced or fake audio

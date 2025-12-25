@@ -1,0 +1,302 @@
+LOFT RENOVATION TIMELAPSE PROMPT
+
+Transform the exact abandoned multi-level loft into a modern, fully livable residential space, following real-world construction, architectural, and interior-design logic.
+
+This must look like real on-site renovation documentation, not AI art, not cinematic, not stylized.
+
+No fantasy | No impossible transformations | No AI artifacts
+
+The final result must feel safe, functional, code-compliant, and completed by a professional architecture & construction firm.
+
+📷 CAMERA — ABSOLUTE LOCK (NON-NEGOTIABLE)
+
+Fixed static camera, rigid mount (CCTV / tripod-like)
+Zero movement: no pan, tilt, zoom, shake, drift
+Same framing, same perspective, same scale throughout
+Wide-angle lens: 24–28mm
+Entire room visible at all times
+No cuts, no transitions, no reframing
+Continuous single shot from start to finish
+🏗️ SPATIAL LAYOUT — LOCKED & LOGICAL
+
+LOWER LEVEL: Kitchen + Living / Dining
+UPPER LEVEL: Bedroom + optional small workspace
+STAIRCASE: Permanent, safe connection between levels
+
+Spatial Rules (Cannot Change)
+
+Wall positions never move
+Window size and position stay identical
+Ceiling heights remain constant
+Floor area does not expand or shrink
+Mezzanine structure remains fixed
+Straight lines stay straight (no warping)
+🎨 DESIGN STYLE CONFIGURATION — SELECT ONE
+
+INSTRUCTIONS: Choose ONE style package below. Lock all materials, colors, and finishes from that package. No mixing styles.
+
+STYLE 01 — SCANDINAVIAN MINIMALIST
+
+Palette: Light, airy, natural
+
+Walls: Pure white (RAL 9010) or soft warm white
+Floors: Light oak or ash wood planks
+Cabinets: Matte white with light wood handles
+Countertop: White quartz or light marble
+Metal Finish: Brushed stainless steel or matte black
+Accent: Natural textiles (linen, wool)
+Lighting: Warm white LED (3000K), recessed + pendant
+STYLE 02 — INDUSTRIAL MODERN
+
+Palette: Raw, dark, textured
+
+Walls: Exposed concrete or dark gray (RAL 7016)
+Floors: Polished concrete or dark engineered wood
+Cabinets: Black matte with metal edge profiles
+Countertop: Black granite or dark concrete
+Metal Finish: Matte black steel + exposed metal frames
+Accent: Leather, raw metal, glass
+Lighting: Cool white LED (4000K), track + industrial fixtures
+STYLE 03 — WARM CONTEMPORARY
+
+Palette: Earthy, balanced, inviting
+
+Walls: Warm beige (RAL 1015) or terracotta accent wall
+Floors: Medium walnut or oak with warm tone
+Cabinets: Natural wood veneer (walnut/oak) matte finish
+Countertop: Warm beige stone or wood
+Metal Finish: Brushed brass or bronze
+Accent: Terracotta, rust, warm textiles
+Lighting: Warm white LED (2700K), cove + ambient
+STYLE 04 — CONTEMPORARY LUXURY
+
+Palette: Elegant, refined, high-end
+
+Walls: Soft gray (RAL 7035) or cream
+Floors: Large-format porcelain tiles (marble look) or dark herringbone wood
+Cabinets: High-gloss white or navy blue lacquer
+Countertop: White marble with gray veining or black quartz
+Metal Finish: Polished chrome or gold accents
+Accent: Velvet, marble, glass
+Lighting: Neutral white LED (3500K), crystal/glass fixtures
+STYLE 05 — MID-CENTURY MODERN
+
+Palette: Retro, colorful, organic
+
+Walls: Mustard yellow accent wall + off-white
+Floors: Teak or walnut wood planks
+Cabinets: Natural teak with tapered legs, flat-front
+Countertop: White laminate or light wood butcher block
+Metal Finish: Brass or copper
+Accent: Orange, olive green, geometric patterns
+Lighting: Warm white LED (2700K), Sputnik-style or globe pendants
+STYLE 06 — JAPANDI (JAPANESE + SCANDINAVIAN)
+
+Palette: Zen, minimal, natural
+
+Walls: Warm white or light taupe
+Floors: Light bamboo or pale oak
+Cabinets: Light wood (maple/birch) with handleless design
+Countertop: Light stone or wood
+Metal Finish: Matte black or dark bronze
+Accent: Natural fiber (rattan, paper), black accents
+Lighting: Soft warm LED (2700K), paper lanterns + linear strips
+STYLE 07 — MEDITERRANEAN / COASTAL
+
+Palette: Fresh, bright, relaxed
+
+Walls: Crisp white with blue-gray accent
+Floors: Light travertine tiles or whitewashed wood
+Cabinets: White shaker-style or light blue painted wood
+Countertop: White marble or light granite
+Metal Finish: Brushed nickel or antique brass
+Accent: Blue, terracotta, natural rope/wicker
+Lighting: Neutral white LED (3500K), rope-wrapped or woven fixtures
+STYLE 08 — MAXIMALIST ECLECTIC
+
+Palette: Bold, colorful, layered
+
+Walls: Deep emerald green or navy accent wall + white
+Floors: Patterned cement tiles or dark wood
+Cabinets: Mixed materials: wood + painted (emerald, navy, gold)
+Countertop: Colorful terrazzo or patterned stone
+Metal Finish: Mixed metals (brass + black)
+Accent: Rich jewel tones, patterns, art, plants
+Lighting: Warm white LED (2700K), statement fixtures (colored glass, sculptural)
+STYLE 09 — BRUTALIST MINIMAL
+
+Palette: Raw, monochromatic, stark
+
+Walls: Exposed concrete (smooth or board-formed texture)
+Floors: Polished concrete or large gray porcelain slabs
+Cabinets: Concrete-look panels or matte dark gray
+Countertop: Concrete or black stone
+Metal Finish: Raw steel or blackened steel
+Accent: Minimal, monochrome (black, gray, white only)
+Lighting: Cool white LED (4000K), minimal recessed or linear
+STYLE 10 — MODERN FARMHOUSE
+
+Palette: Rustic-refined, cozy, classic
+
+Walls: Shiplap white or soft sage green
+Floors: Wide-plank reclaimed wood or distressed oak
+Cabinets: White shaker-style with wood open shelving
+Countertop: White marble or butcher block
+Metal Finish: Oil-rubbed bronze or matte black
+Accent: Galvanized metal, vintage accents, greenery
+Lighting: Warm white LED (2700K), Edison bulb fixtures or barn-style pendants
+🔒 MATERIAL CONSISTENCY LOCK
+
+Once style is selected:
+
+ZERO material changes during video
+ZERO color shifts or morphing
+ONE wood grain type (if applicable)
+ONE metal finish throughout
+ONE tile/stone pattern (if applicable)
+Materials behave realistically (paint dries, wood has weight, metal reflects light correctly)
+🎯 CONSISTENCY RULES (CRITICAL)
+
+Objects
+
+No random appearing/disappearing
+Removed items never return
+Installed items stay permanently
+No teleporting furniture
+No color or material flickering
+Physics
+
+Gravity always active
+No floating objects
+Heavy items require 2–3 workers
+Dust falls downward
+Water flows realistically
+Wet paint dries gradually
+Workers
+
+Same faces throughout entire video
+Same outfit colors and PPE
+3–6 workers maximum, consistent count
+Enter and exit only through doors
+No sudden outfit or body changes
+Correct human proportions
+Lighting
+
+Natural daylight shifts gradually (morning → afternoon → evening)
+Shadows match sun direction
+Artificial lights only appear after installation
+Once installed, lights stay fixed
+No lighting jumps or flicker
+💡 LIGHTING INSTALLATION — MODERN & REALISTIC
+
+All exposed pipes, conduits, and wiring are fully removed or concealed
+Clean ceiling finish with integrated modern lighting systems
+Lighting matches selected style (see style config above)
+Recessed, linear, or pendant fixtures appropriate to design
+No visible bulbs unless part of design (e.g., Edison bulbs in Style 10)
+No decorative neon, no sci-fi glow
+Lighting looks architectural, subtle, and real
+📐 SCALE & DIMENSIONS (REAL-WORLD)
+
+Doors: 2.0–2.1m height
+Stairs:
+Risers: 17–19cm
+Treads: 25–30cm
+Angle: 30–35°
+Kitchen counter height: 90–95cm
+Walkways: minimum 90cm
+Stair headroom: minimum 2m
+Furniture fits through doors physically
+⏱️ TIMELAPSE SEQUENCE (15–20 SECONDS TOTAL)
+
+1️⃣ Demolition (3–4s)
+
+Workers enter
+Pressure washing (visible water spray)
+Remove old furniture out of frame
+Sweep debris, bag waste
+Space becomes empty
+2️⃣ Structural Prep (2–3s)
+
+Remove damaged plaster
+Secure and conceal wiring
+No exposed pipes remain
+Apply primer and patch walls
+3️⃣ Surfaces (3–4s)
+
+Walls: plaster → primer → base coat → final coat
+Floors: remove old → subfloor → new finish laid row by row
+Ladders reposition logically
+4️⃣ Staircase (2–3s)
+
+Remove old ladder
+Install structure bottom-up
+Treads → railing posts → handrail
+Workers climb partially built stairs during install
+5️⃣ Kitchen (LOWER LEVEL) (2–3s)
+
+Mark layout
+Install base cabinets
+Plumbing concealed
+Countertop lifted by 2–3 workers
+Upper cabinets → appliances → backsplash → sink & faucet
+6️⃣ Furniture (2–3s)
+
+Lower: sofa (2 workers), table, chairs
+Upper: bed frame carried upstairs, mattress separate
+All movement realistic and continuous
+7️⃣ Final Touch (1–2s)
+
+Install lights using ladder (matching selected style)
+Hang art, place plants, accessories per style
+Final cleaning
+Lights turn on
+Workers exit
+❌ FORBIDDEN (STRICT)
+
+Any camera movement or cuts
+Changing room dimensions
+Exposed pipes after renovation
+Kitchen upstairs or bedroom downstairs
+Painting before plastering
+Appliances before cabinets
+One worker lifting heavy items
+Mixing materials from different styles
+Morphing textures or colors
+Duplicate or distorted workers
+Workers posing or looking at camera
+🏆 REALITY CHECK (MANDATORY)
+
+Ask at every frame:
+
+Can this happen in real life?
+Would a contractor believe this?
+Is the workflow correct?
+Is lighting logical?
+Any AI giveaway?
+Do materials match the selected style consistently?
+If any answer is NO → regenerate.
+
+🔑 GENERATION KEYWORDS (IMPORTANT)
+
+Use:
+
+documentary construction photography
+real renovation timelapse
+photorealistic architectural documentation
+authentic construction workflow
+perfect spatial consistency
+natural physics
+zero AI artifacts
+[selected style name] interior design
+Avoid:
+
+cinematic
+artistic
+magical
+fantasy
+stunning
+unreal
+Mindset:
+Boring construction documentation → beautiful, believable result.
+
