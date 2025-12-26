@@ -1,5 +1,3 @@
-loft
-
 Transform the exact abandoned multi-level loft into a modern, fully livable residential space, following real-world construction, architectural, and interior-design logic.
 
 This must look like real on-site renovation documentation, not AI art, not cinematic, not stylized.
@@ -234,24 +232,17 @@ Workers exit
 
 Choose ONE and stay consistent:
 
-**Scandinavian** / **Warm Contemporary** / **Japandi** / **Contemporary Luxury** / **Mediterranean**
-
-**Contemporary Luxury specifications:**
-- Walls: Soft gray or cream with marble accent panels
-- Floors: Large-format porcelain tiles (marble look) or polished natural stone ONLY (NO WOOD)
-- Cabinets: High-gloss white or navy blue lacquer, handleless
-- Countertops: White marble with veining or black quartz
-- Metal finish: Polished chrome, brushed nickel, or champagne gold
-- Accents: Velvet upholstery, mirrored glass, metallic details
-- NO WOOD FLOORS OR FINISHES
+Scandinavian / Warm Contemporary / Japandi / Nordic Luxury / Mediterranean
 
 Then lock:
 
 ONE wall color
 
-ONE floor material (stone/tile/porcelain only if luxury)
+ONE wood type
 
 ONE metal finish
+
+ONE floor material
 
 ONE countertop material
 
@@ -282,8 +273,6 @@ Morphing textures
 Duplicate or distorted workers
 
 Workers posing or looking at camera
-
-Wood floors in Contemporary Luxury style
 
 🏆 REALITY CHECK (MANDATORY)
 
