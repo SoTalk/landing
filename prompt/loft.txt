@@ -8,17 +8,19 @@ Minimalist but high-end
 
 Precise geometry, sharp edges
 
-Calm, premium, hotel-grade residential feeling
+Bold, refined, designer-grade residential feeling
+
+Elegant contrast, calm but more dramatic
 
 No decorative clutter, no rustic or industrial elements
 
 🎨 COLOR SYSTEM (LOCKED)
 
-Wall color: Light limestone (soft warm-neutral, smooth finish)
+Wall color: Soft warm gray (micro-cement look, smooth matte finish)
 
-Ceiling color: Pure white (flat, clean, no texture)
+Ceiling color: Off-white / warm white (flat, seamless)
 
-Floor color: Dark marble (deep gray to near-black, subtle natural veining)
+Floor color: Light gray marble (clean stone tone, subtle linear veining)
 
 No color shifts during renovation.
 No accent colors outside this palette.
@@ -30,32 +32,32 @@ No accent colors outside this palette.
 
 Approved materials only:
 
-Floor material: Polished marble (realistic stone texture, reflective but not glossy)
+Floor material: Honed marble (stone texture, low-reflection, premium residential finish)
 
-Stair structure: Matte black steel (solid, engineered, code-compliant)
+Stair structure: Dark titanium steel (slightly warmer than pure black)
 
-Stair treads: Metal (dark, anti-slip, residential-grade)
+Stair treads: Solid metal (brushed finish, anti-slip detailing)
 
-Railing: Metal (black, slim-profile, safety-height compliant)
+Railing: Metal (dark titanium, ultra-slim profile, safety compliant)
 
-Kitchen countertop: Quartz (light neutral tone, refined, seamless edges)
+Kitchen countertop: Dark quartz (charcoal tone, clean edges)
 
-Cabinet finish: Glass (frosted or smoked, handle-less, modern hardware)
+Cabinet finish: High-gloss glass (dark gray or graphite, handle-less)
 
-Global metal finish: Black (consistent tone everywhere — no chrome, no silver)
+Global metal finish: Dark titanium (consistent everywhere, no chrome, no silver)
 
 No material switching mid-video.
 Once installed, materials stay identical until final frame.
 
 💡 LIGHTING SYSTEM (LOCKED)
 
-Lighting temperature: 4000K (neutral white, luxury residential tone)
+Lighting temperature: 3000–3500K (warm luxury hotel tone)
 
 Lighting type:
 
-Indirect cove lighting only
+Indirect recessed lighting
 
-Concealed LED strips (ceiling recesses, stair edges, cabinetry)
+Hidden linear LED channels (ceiling slots, stair undersides, kitchen toe-kicks)
 
 No exposed bulbs
 
@@ -65,13 +67,13 @@ No visible fixtures
 
 Lighting must feel:
 
-Even
+Warm
 
-Soft
+Layered
 
-Shadow-controlled
+Controlled contrast
 
-Realistic for a finished high-end home
+Realistic for a finished high-end modern residence
 
 ⚠️ CONSISTENCY RULE (CRITICAL)
 
