@@ -1,4 +1,94 @@
-Transform the exact abandoned multi-level loft into a modern, fully livable residential space, following real-world construction, architectural, and interior-design logic.
+Loft
+
+STYLE
+
+Modern Luxury (Contemporary, clean, architectural)
+
+Minimalist but high-end
+
+Precise geometry, sharp edges
+
+Calm, premium, hotel-grade residential feeling
+
+No decorative clutter, no rustic or industrial elements
+
+🎨 COLOR SYSTEM (LOCKED)
+
+Wall color: Light limestone (soft warm-neutral, smooth finish)
+
+Ceiling color: Pure white (flat, clean, no texture)
+
+Floor color: Dark marble (deep gray to near-black, subtle natural veining)
+
+No color shifts during renovation.
+No accent colors outside this palette.
+
+🧱 MATERIAL SYSTEM — STRICT (NO WOOD ALLOWED)
+
+🚫 Wood is completely forbidden
+(no floors, no stairs, no furniture frames, no accents, no panels)
+
+Approved materials only:
+
+Floor material: Polished marble (realistic stone texture, reflective but not glossy)
+
+Stair structure: Matte black steel (solid, engineered, code-compliant)
+
+Stair treads: Metal (dark, anti-slip, residential-grade)
+
+Railing: Metal (black, slim-profile, safety-height compliant)
+
+Kitchen countertop: Quartz (light neutral tone, refined, seamless edges)
+
+Cabinet finish: Glass (frosted or smoked, handle-less, modern hardware)
+
+Global metal finish: Black (consistent tone everywhere — no chrome, no silver)
+
+No material switching mid-video.
+Once installed, materials stay identical until final frame.
+
+💡 LIGHTING SYSTEM (LOCKED)
+
+Lighting temperature: 4000K (neutral white, luxury residential tone)
+
+Lighting type:
+
+Indirect cove lighting only
+
+Concealed LED strips (ceiling recesses, stair edges, cabinetry)
+
+No exposed bulbs
+
+No hanging lamps
+
+No visible fixtures
+
+Lighting must feel:
+
+Even
+
+Soft
+
+Shadow-controlled
+
+Realistic for a finished high-end home
+
+⚠️ CONSISTENCY RULE (CRITICAL)
+
+No design jumps
+
+No style blending
+
+No late-stage material changes
+
+Final result must look intentionally designed from day one, not improvised
+
+
+⚠️ WOOD IS COMPLETELY FORBIDDEN — ZERO EXCEPTIONS
+
+🎯 OBJECTIVE (LOCKED)
+
+Transform the exact abandoned multi-level loft into a luxury modern, fully livable residential space, strictly following real-world architectural, construction, structural, and interior-design logic.
 
 This must look like real on-site renovation documentation, not AI art, not cinematic, not stylized.
 
@@ -6,31 +96,41 @@ No fantasy
 No impossible transformations
 No AI artifacts
 
-The final result must feel safe, functional, code-compliant, and completed by a professional architecture & construction firm.
+Final result feels calm, expensive, code-compliant, and professionally built.
 
 📷 CAMERA — ABSOLUTE LOCK (NON-NEGOTIABLE)
 
-Fixed static camera, rigid mount (CCTV / tripod-like)
+Fixed static camera (CCTV / rigid tripod)
 
 Zero movement: no pan, tilt, zoom, shake, drift
 
-Same framing, same perspective, same scale throughout
+Same framing, same perspective, same scale
 
 Wide-angle lens: 24–28mm
 
-Entire room visible at all times
+Entire loft visible at all times
+
+One continuous shot
 
 No cuts, no transitions, no reframing
 
-Continuous single shot from start to finish
-
 🏗️ SPATIAL LAYOUT — LOCKED & LOGICAL
 
-LOWER LEVEL: Kitchen + Living / Dining
+LOWER LEVEL
 
-UPPER LEVEL: Bedroom + optional small workspace
+Kitchen
 
-STAIRCASE: Permanent, safe connection between levels
+Living / Dining area
+
+UPPER LEVEL (MEZZANINE)
+
+Bedroom
+
+Optional compact workspace
+
+STAIRCASE
+
+Permanent modern stair connecting levels safely
 
 Spatial Rules (Cannot Change)
 
@@ -46,11 +146,43 @@ Mezzanine structure remains fixed
 
 Straight lines stay straight (no warping)
 
+🔴 FULL SURFACE REPLACEMENT — ABSOLUTE LOCK
+
+Walls
+
+ALL walls fully stripped, repaired, primed, and repainted
+
+No partial repaint, no preserved old paint
+
+One uniform wall color, edge to edge
+
+Floor
+
+Entire existing floor completely removed
+
+Subfloor repaired and leveled
+
+New floor installed wall-to-wall, continuous
+
+No old floor sections remain
+
+Ceiling / Roof (Interior)
+
+Entire ceiling fully resurfaced
+
+All cracks, stains, and damage eliminated
+
+Full primer coat + final paint coat
+
+Lighting installed ONLY after ceiling completion
+
+If any original surface remains visible → INVALID RESULT
+
 🎯 CONSISTENCY RULES (CRITICAL)
 
 Objects
 
-No random appearing/disappearing
+No appearing/disappearing
 
 Removed items never return
 
@@ -58,7 +190,7 @@ Installed items stay permanently
 
 No teleporting furniture
 
-No color or material flickering
+No color or material flicker
 
 Physics
 
@@ -76,191 +208,89 @@ Wet paint dries gradually
 
 Workers
 
-Same faces throughout entire video
+3–6 professional workers only
 
-Same outfit colors and PPE
+Same faces throughout
 
-3–6 workers maximum, consistent count
+Same PPE and outfit colors
 
-Enter and exit only through doors
+Enter/exit only through doors
 
-No sudden outfit or body changes
+No posing or camera awareness
 
-Correct human proportions
+Lighting Behavior
 
-Lighting
+Natural daylight shifts gradually
 
-Natural daylight shifts gradually (morning → afternoon → evening)
+Shadows follow sun direction
 
-Shadows match sun direction
-
-Artificial lights only appear after installation
+Artificial lights appear only after installation
 
 Once installed, lights stay fixed
 
-No lighting jumps or flicker
+No flicker or jumps
 
-💡 LIGHTING DESIGN — MODERN & FUTURISTIC (REALISTIC)
+💡 LIGHTING DESIGN — MODERN & LUXURY (REALISTIC)
 
-All exposed pipes, conduits, and wiring are fully removed or concealed
+All exposed pipes, conduits, and wiring fully removed or concealed
 
-Clean ceiling finish with integrated modern lighting systems:
+Clean flat ceilings
 
 Recessed linear LED strips
 
-Slim ceiling profiles
-
 Indirect cove lighting
 
-Neutral white light (3000K–4000K)
+Minimal architectural downlights
 
-No visible bulbs, no hanging industrial lamps
+Neutral white light (per config)
 
-No decorative neon, no sci-fi glow
+No hanging lamps
 
-Lighting looks architectural, subtle, and real
+No visible bulbs
 
-🧱 MATERIAL BEHAVIOR (REALISM LOCK)
+No neon or sci-fi glow
 
-Paint: wet/glossy → dries matte
+📐 REAL-WORLD SCALE & DIMENSIONS
 
-Wood grain consistent direction
+Doors: 2.0–2.1m
 
-Metal finish never morphs
+Stair:
 
-Tile patterns remain aligned
+Riser: 17–19cm
 
-No texture stretching or melting
-
-All materials have realistic weight and thickness
-
-📐 SCALE & DIMENSIONS (REAL-WORLD)
-
-Doors: 2.0–2.1m height
-
-Stairs:
-
-Risers: 17–19cm
-
-Treads: 25–30cm
+Tread: 25–30cm
 
 Angle: 30–35°
 
 Kitchen counter height: 90–95cm
 
-Walkways: minimum 90cm
+Walkways: ≥ 90cm
 
-Stair headroom: minimum 2m
+Stair headroom: ≥ 2m
 
-Furniture fits through doors physically
+⏱️ RENOVATION TIMELAPSE SEQUENCE (15–20s)
 
-⏱️ TIMELAPSE SEQUENCE (15–20 SECONDS TOTAL)
+1️⃣ Demolition
+2️⃣ Structural prep
+3️⃣ Walls, floor, ceiling installation
+4️⃣ Stair installation
+5️⃣ Kitchen installation
+6️⃣ Furniture placement
+7️⃣ Final lighting, cleaning, handover
 
-1️⃣ Demolition (3–4s)
+Workflow order must be correct.
 
-Workers enter
-
-Pressure washing (visible water spray)
-
-Remove old furniture out of frame
-
-Sweep debris, bag waste
-
-Space becomes empty
-
-2️⃣ Structural Prep (2–3s)
-
-Remove damaged plaster
-
-Secure and conceal wiring
-
-No exposed pipes remain
-
-Apply primer and patch walls
-
-3️⃣ Surfaces (3–4s)
-
-Walls: plaster → primer → base coat → final coat
-
-Floors: remove old → subfloor → new finish laid row by row
-
-Ladders reposition logically
-
-4️⃣ Staircase (2–3s)
-
-Remove old ladder
-
-Install structure bottom-up
-
-Treads → railing posts → handrail
-
-Workers climb partially built stairs during install
-
-5️⃣ Kitchen (LOWER LEVEL) (2–3s)
-
-Mark layout
-
-Install base cabinets
-
-Plumbing concealed
-
-Countertop lifted by 2–3 workers
-
-Upper cabinets → appliances → backsplash → sink & faucet
-
-6️⃣ Furniture (2–3s)
-
-Lower: sofa (2 workers), table, chairs
-
-Upper: bed frame carried upstairs, mattress separate
-
-All movement realistic and continuous
-
-7️⃣ Final Touch (1–2s)
-
-Install modern lights using ladder
-
-Hang art, place plants, cushions
-
-Final cleaning
-
-Lights turn on
-
-Workers exit
-
-🎨 DESIGN — PICK ONE STYLE ONLY
-
-Choose ONE and stay consistent:
-
-Scandinavian / Warm Contemporary / Japandi / Nordic Luxury / Mediterranean
-
-Then lock:
-
-ONE wall color
-
-ONE wood type
-
-ONE metal finish
-
-ONE floor material
-
-ONE countertop material
-
-ONE cabinet style
-
-No style mixing. No changes mid-video.
-
-❌ FORBIDDEN (STRICT)
+❌ STRICTLY FORBIDDEN
 
 Any camera movement or cuts
 
-Changing room dimensions
+Any wood material
+
+Partial repaint or partial floor replacement
 
 Exposed pipes after renovation
 
 Kitchen upstairs or bedroom downstairs
-
-Painting before plastering
 
 Appliances before cabinets
 
@@ -272,15 +302,13 @@ Morphing textures
 
 Duplicate or distorted workers
 
-Workers posing or looking at camera
-
 🏆 REALITY CHECK (MANDATORY)
 
-Ask at every frame:
+At every frame ask:
 
-Can this happen in real life?
+Could this happen in real life?
 
-Would a contractor believe this?
+Would a contractor approve this?
 
 Is the workflow correct?
 
@@ -288,17 +316,16 @@ Is lighting logical?
 
 Any AI giveaway?
 
-If any answer is NO → regenerate.
+If any answer = NO → regenerate.
 
-🔑 GENERATION KEYWORDS (IMPORTANT)
+🔑 GENERATION KEYWORDS
 
 Use:
-
-documentary construction photography, real renovation timelapse, photorealistic architectural documentation, authentic construction workflow, perfect spatial consistency, natural physics, zero AI artifacts
+documentary construction photography, real renovation timelapse, photorealistic architectural documentation, luxury modern interior, perfect spatial consistency, natural physics, zero AI artifacts
 
 Avoid:
+cinematic, artistic, fantasy, unreal, dramatic
 
-cinematic, artistic, magical, fantasy, stunning, unreal
+🧠 MINDSET
 
-Mindset:
-Boring construction documentation → beautiful, believable result.
+Strict construction documentation → believable luxury result.

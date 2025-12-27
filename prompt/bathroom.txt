@@ -1,0 +1,162 @@
+Document real on-site construction footage transforming an abandoned bathroom into a luxury modern shower-only bathroom.
+Must look like actual contractor documentation, NOT AI / CGI / cinematic visualization.
+
+Duration: exactly 15 seconds, 30fps
+Style: documentary construction timelapse
+Priority: physical realism > visual beauty
+
+🎥 CAMERA — ABSOLUTE LOCK
+
+Fixed tripod / CCTV-style camera
+
+24mm wide angle
+
+No pan, tilt, zoom, cuts, reframing
+
+Entire bathroom visible at all times
+
+Same framing from first to last frame
+
+🏚️ STARTING CONDITION (LOCKED)
+
+Bathroom ± 2.5 × 3 meters:
+
+Old stained floor-mounted toilet
+
+Old cracked wall-mounted sink
+
+Broken ceramic wall & floor tiles
+
+Exposed rusty plumbing pipes
+
+Moldy ceiling with peeling paint
+
+Small dirty window
+
+Damp, dark, neglected atmosphere
+
+Room size, window position, door position, ceiling height DO NOT CHANGE.
+
+👷 WORKERS
+
+3–4 professional workers
+
+Natural movements, task-focused
+
+Standard safety gear
+
+No posing, no camera awareness
+
+⏱️ 15s RENOVATION SEQUENCE (REALISTIC & LOGICAL)
+🔹 0–2s — Strip Out
+
+Disconnect and remove toilet & sink
+
+Remove loose tiles
+
+Sweep debris
+
+Audio: ceramic breaking, lifting, sweeping
+
+🔹 2–5s — Plumbing & Patching
+
+Replace old pipes
+
+Install new hot/cold lines for shower & sink only
+
+Install concealed waste line for wall-mounted toilet
+
+Patch walls & ceiling
+
+Wet compound → partial drying visible
+
+Audio: wrench, pipe cutting, trowel, sanding
+
+🔹 5–8s — Ceiling & Waterproofing
+
+Ceiling skim coat
+
+Primer → white repaint
+
+Apply waterproof membrane to:
+
+Shower walls
+
+Bathroom floor
+
+Audio: paint rolling, brushing
+
+🔹 8–11s — Luxury Surfaces
+
+Install marble-look porcelain wall tiles
+
+Install premium anti-slip floor tiles
+
+Grout → wipe → clean
+
+Audio: tile tapping, grout spreading
+
+🔹 11–13s — Fixtures & Shower Enclosure
+
+Install wall-mounted toilet (concealed tank)
+
+Install floating vanity + integrated sink
+
+Install mirror
+
+Install frameless glass shower enclosure
+
+Install rain shower & handheld set
+
+Audio: drilling, tightening, glass handling
+
+🔹 13–15s — Lighting & Finish
+
+Install recessed ceiling LED lights
+
+Lights turn on gradually (3000K)
+
+Final wipe-down
+
+Workers exit
+
+Audio: switch click, soft cleaning ambience
+
+🎨 FINAL LUXURY DESIGN (LOCKED)
+
+Walls: marble-look porcelain
+
+Floor: luxury anti-slip stone tile
+
+Ceiling: smooth white moisture-resistant
+
+Toilet: wall-mounted, modern ceramic
+
+Vanity: floating, minimalist
+
+Shower: fully enclosed frameless glass
+
+Lighting: recessed LED + natural daylight
+
+Mood: hotel-grade, calm, premium
+
+❌ NO BATHTUB — SHOWER-ONLY DESIGN
+
+❌ ANTI-AI ARTIFACT RULES (CRITICAL)
+
+No instant installations
+
+No floating fixtures
+
+No geometry morphing
+
+No lighting jumps
+
+Glass behaves physically correct
+
+All fixtures human-scale & grounded
+
+🎯 GENERATION PRINCIPLE
+
+If it doesn’t fit in real life, it must not appear.
+Luxury must be built slowly, not summoned.

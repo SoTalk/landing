@@ -1,13 +1,38 @@
-create video timelapse bathroom renovation from ugly to elegant with worker,  and locked camera full room with realistic bathroom logic
-
-
-
-A two-floor house apartment full room, with a dilapidated loft apartment interior and  featuring broken furniture and debris.
-
 A photorealistic abandoned bedroom interior, small and neglected, with damaged walls, ceiling, and floor.
+
+Loft1
 
 Photorealistic abandoned loft interior, two-level open space with a mezzanine bedroom overlooking a ruined kitchen below. Old metal railing and wooden ladder leading to the upper level. Cracked concrete walls with peeling paint, exposed pipes and hanging bare light bulbs on the ceiling. Broken tiled floor covered with debris, dirt, and fallen plaster. Damaged kitchen cabinets, broken sink, and scattered furniture including a torn sofa. Dark, moody atmosphere with natural light entering softly, realistic shadows, industrial decay, ultra-detailed textures, wide-angle interior photography, no people.
 
+Loft2
+
+Photorealistic small residential loft house interior, compact two-level space contained within a single room, realistic home-scale proportions, not a warehouse.
+
+Camera positioned in the upper-right corner at slightly elevated height (approx. 2–2.3 meters), angled gently downward, natural architectural documentation viewpoint, not ceiling-mounted, not extreme surveillance angle. Entire room visible without distortion.
+
+Upper sleeping loft integrated above part of the space, low ceiling clearance, simple railing, realistic residential loft layout.
+
+Severely worn interior: cracked plaster walls, peeling paint, water stains, aged surfaces from long-term neglect.
+
+Floor heavily damaged with cracked concrete and broken tiles, uneven surface, dust and debris scattered naturally.
+
+Small residential kitchenette against one wall, damaged cabinets and sink, old sofa, minimal domestic furniture.
+
+Soft natural daylight entering from side windows, realistic shadows, neutral abandoned atmosphere.
+
+Wide-angle interior photography (24–28mm), correct scale and perspective, straight vertical lines, ultra-detailed textures, documentary realism, no people, no stylization.
+
+--ar 2:3 --stylize 300
+
+❌ NEGATIVE PROMPT (TAMBAHAN PENTING)
+
+ceiling camera, extreme top-down view, fisheye distortion, warped walls, warehouse scale, cinematic lighting, fantasy, unreal engine look, sci-fi, people
+
 Decayed urban loft apartment abandoned for decades, mezzanine bed accessed by rusty metal ladder, vines and plants growing through cracked walls and floor debris, peeling paint on concrete, old kitchen with overgrown moss on counters, torn sofa covered in leaves, exposed dangling wires, dim light from broken window with foliage outside, eerie atmospheric urbex photography, high detail, realistic --ar 2:3 --stylize 400
 
+A photorealistic abandoned living room interior with damaged walls, ceiling, and floor., captured in a wide-angle shot.
 A photorealistic abandoned garden behind a well-maintained house, captured in a wide-angle shot.
+
+
+
+Photorealistic abandoned compact bathroom interior, realistic residential scale ±3.3 × 3.8 meters, designed with tight but believable layout. Single-level space, no mezzanine, no split-level. This bathroom was originally designed for shower-only use, not bathtub. Layout prioritizes clear movement space and plumbing logic.
